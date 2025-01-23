@@ -1,0 +1,11 @@
+.dashboard-container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .chat-area {
+    flex-grow: 1;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
